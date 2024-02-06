@@ -1,5 +1,5 @@
 # coin-counter
-The coin-counter app detected coins on a table and extracts SIFT features to detect the denomination of the coin and the values are added to count the total value on the table.
+The coin-counter app detected coins(circles) on a table using Hough transform and extracts SIFT features from that circle roi to detect the denomination of the coin and finally the values are added to count the total value on the table.
 
 ### Results
 Yes, I used a toilet paper roll for the camera stand... lol :toilet:
