@@ -2,7 +2,8 @@
 The coin-counter app detected coins on a table and extracts SIFT features to detect the denomination of the coin and the values are added to count the total value on the table.
 
 ### Results
-Yes, I used a toilet paper roll for the camera stand... lol
+Yes, I used a toilet paper roll for the camera stand... lol :toilet:
+
 <img width="146" alt="image" src="https://github.com/tusharparimi/coin-counter/assets/93556280/3506f50f-17e9-4909-9bbb-ac1eb887fa3c">
 <img width="148" alt="image" src="https://github.com/tusharparimi/coin-counter/assets/93556280/bbc6e079-7453-4c76-a79e-32cc7cb53535">
 
